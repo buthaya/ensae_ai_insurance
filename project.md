@@ -11,6 +11,10 @@ Requirements:
 - You will have to choose at least one machine learning algorithm and one deep learning model
 - Throughout the process, maintain documentation and version control to keep track of changes and ensure reproducibility: usage of github repo.
 
+
+![Alt text](https://images.datacamp.com/image/upload/v1661355380/Machine_Learning_Project_25_316eb558bb.png)
+
+
 ### Problem Definition:
 Define the specific business problem you are trying to solve with machine learning. This could be anything from customer churn prediction to sentiment analysis or fraud detection. Ensure clarity on the problem statement and the desired outcome. You can look for existing research papers, open-source projects, tutorials, and applications related to your problem domain. This will provide insights into the methodologies and techniques that have been successful for similar problems. Make sure your solution is realistic, and data is easily available.
 
